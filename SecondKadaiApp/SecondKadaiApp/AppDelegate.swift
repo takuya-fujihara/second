@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  新規
+//  SecondKadaiApp
 //
-//  Created by 藤原拓也 on 2019/11/20.
+//  Created by 藤原拓也 on 2019/11/23.
 //  Copyright © 2019 takuya.fujihara. All rights reserved.
 //
 
